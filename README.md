@@ -8,9 +8,9 @@
   3. DELETE :- delete all articles
   
 ## Specific article
-  URL: articles/'<'article name'>'
+  URL: articles/'<article name>'
   Methods available
-  1. GET  :- return article with '<'article name'>'
+  1. GET  :- return article with '<article name>'
   2. PUT  :- replace article 
   3. PATCH  :- update article properties
-  4. DELETE :- delete article with '<'article name'>'
+  4. DELETE :- delete article with '<article name>'
