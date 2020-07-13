@@ -1,4 +1,5 @@
 # RESTful-API
+This RESTful-API is build using Nodejs(backend), MongoDB(database), and Mongoose
 
 ## All articles
   URL: articles/
